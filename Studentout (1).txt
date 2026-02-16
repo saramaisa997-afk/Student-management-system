@@ -1,0 +1,42 @@
+1. Add Student
+2. View Students
+3. Delete Student
+4. Exit
+Enter choice: 1
+Enter Roll Number: 11
+Enter Name: sara
+Enter Marks: 56
+Student Added Successfully!
+
+1. Add Student
+2. View Students
+3. Delete Student
+4. Exit
+Enter choice: 2
+Roll: 11, Name: sara, Marks: 56
+
+1. Add Student
+2. View Students
+3. Delete Student
+4. Exit
+Enter choice: 1
+Enter Roll Number: 12
+Enter Name: kate
+Enter Marks: 78
+Student Added Successfully!
+
+1. Add Student
+2. View Students
+3. Delete Student
+4. Exit
+Enter choice: 3
+Enter Roll Number to delete: 11
+Student Deleted Successfully!
+
+1. Add Student
+2. View Students
+3. Delete Student
+4. Exit
+Enter choice: 4
+
+[Program finished]
